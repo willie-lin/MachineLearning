@@ -35,6 +35,6 @@
 * Comparing the accuracy and confidence of your algorithm with SKLearn module's neighbors.KNeighborsClassifier()
 * Accuracy vs confidence in k-NN algorithm
 
-### Day 19
+### Day 5
 * SKLearn Support Vector Machine (SVM) classifier
 * Making your own Support Vector Machine (SVM) algorithm in python [Courtesy: ![Harrison](https://pythonprogramming.net) ] 
